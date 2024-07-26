@@ -1,6 +1,6 @@
 {
   "name": "@luxwallet/eth-hd-keyring",
-  "version": "4.3.4",
+  "version": "4.3.5",
   "description": "A simple standard interface for a seed phrase generated set of Ethereum accounts.",
   "keywords": [
     "ethereum",
@@ -29,7 +29,7 @@
   "dependencies": {
     "@ethereumjs/util": "^9.0.0",
     "@metamask/eth-sig-util": "^4.0.0",
-    "@luxfi/eth-simple-keyring": "^5.0.1",
+    "@luxwallet/eth-simple-keyring": "^5.0.1",
     "@scure/bip39": "^1.2.1",
     "eth-sig-util": "^3.0.1",
     "ethereum-cryptography": "^2.1.2",

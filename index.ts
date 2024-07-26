@@ -1,6 +1,6 @@
 // import Wallet, { hdkey } from 'ethereumjs-wallet';
 import { HDKey } from 'ethereum-cryptography/hdkey';
-import SimpleKeyring from '@luxfi/eth-simple-keyring';
+import SimpleKeyring from '@luxwallet/eth-simple-keyring';
 import * as bip39 from '@scure/bip39';
 import { wordlist } from '@scure/bip39/wordlists/english';
 import * as sigUtil from 'eth-sig-util';

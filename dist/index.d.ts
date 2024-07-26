@@ -1,5 +1,5 @@
 import { HDKey } from 'ethereum-cryptography/hdkey';
-import SimpleKeyring from '@luxfi/eth-simple-keyring';
+import SimpleKeyring from '@luxwallet/eth-simple-keyring';
 
 declare enum HDPathType {
     LedgerLive = "LedgerLive",

@@ -2371,7 +2371,7 @@ __export(eth_hd_keyring_exports, {
 });
 module.exports = __toCommonJS(eth_hd_keyring_exports);
 var import_hdkey = require("ethereum-cryptography/hdkey");
-var import_eth_simple_keyring = __toESM(require("@luxfi/eth-simple-keyring"));
+var import_eth_simple_keyring = __toESM(require("@luxwallet/eth-simple-keyring"));
 var bip39 = __toESM(require("@scure/bip39"));
 var import_english = require("@scure/bip39/wordlists/english");
 var sigUtil = __toESM(require("eth-sig-util"));
